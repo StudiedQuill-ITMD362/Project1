@@ -10,3 +10,6 @@
 body, #firstName, #lastName, #eMail, #signUp, #passWord{
   font-family: "Kode Mono", monospace;
 }
+body{
+  font-size: 1.2em
+}
