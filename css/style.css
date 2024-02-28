@@ -11,5 +11,21 @@ body, #firstName, #lastName, #eMail, #signUp, #passWord{
   font-family: "Kode Mono", monospace;
 }
 body{
-  font-size: 1.2em
+  font-size: 1.2em;
+  background-color:#0F0F0F;
+}
+h1{
+  padding: 0.25em;
+  color: #95003C;
+  font-weight: 700;
+  font-size: 1.3em;
+  padding-bottom: 0.5em;
+  text-decoration: underline;
+  text-decoration-color: #16B507;
+}
+/* Does not change color of the linked h1 after being clicked
+Credits to SheCodes*/
+a:link, a:visited{
+  color: #95003C;
+  text-decoration-color: #16B507;
 }
