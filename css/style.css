@@ -63,6 +63,13 @@ p{
   color: #95003C;
   padding-bottom: 0.5em;
 }
-body, #firstName, #lastName, #eMail, #passWord{
+#firstName, #lastName, #eMail, #passWord{
   width: 11.5em;
+  color: #16B507;
+}
+#first_name input, #last_name input, #email_address input, #pass_word input{
+  background-color: #0F0F0F;
+}
+::placeholder {
+  color: #16B507;
 }
