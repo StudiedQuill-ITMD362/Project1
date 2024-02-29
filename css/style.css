@@ -13,6 +13,9 @@ body, #firstName, #lastName, #eMail, #signUp, #passWord{
 body{
   font-size: 1.2em;
   background-color:#0F0F0F;
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
 h1{
   padding: 0.25em;
@@ -30,7 +33,9 @@ a:link, a:visited{
   text-decoration-color: #16B507;
 }
 form{
-  padding: 1em;
+  width: 12.5em;
+  position: relative;
+  padding: 0.5em;
   border: 1px;
   margin: 0.5em;
   border-style: solid;
@@ -48,4 +53,8 @@ h2{
 .bolded{
   font-weight: 600;
   font-size: 1.35em
+}
+p{
+  text-align: center;
+  color: #95003C;
 }
