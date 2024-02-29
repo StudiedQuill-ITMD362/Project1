@@ -1,11 +1,3 @@
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 400 to 700
-
-.kode-mono-<Kode> {
-  font-family: "Kode Mono", monospace;
-  font-optical-sizing: auto;
-  font-style: normal;
-}
 body, #firstName, #lastName, #eMail, #signUp, #passWord{
   font-family: "Kode Mono", monospace;
 }
