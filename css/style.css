@@ -37,7 +37,7 @@ form{
   position: relative;
   padding: 0.5em;
   border: 1px;
-  margin: 0.5em;
+  margin: 0.25em;
   border-style: solid;
   border-width: 0.1em;
   border-color: #16B507;
@@ -57,4 +57,12 @@ h2{
 p{
   text-align: center;
   color: #95003C;
+  padding-bottom: 0.5em;
+}
+#first_name, #last_name, #email_address, #pass_word, #input_submit{
+  color: #95003C;
+  padding-bottom: 0.5em;
+}
+body, #firstName, #lastName, #eMail, #passWord{
+  width: 11.5em;
 }
