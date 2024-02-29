@@ -29,3 +29,13 @@ a:link, a:visited{
   color: #95003C;
   text-decoration-color: #16B507;
 }
+form{
+  padding: 1em;
+  border: 1px;
+  margin: 0.5em;
+  border-style: solid;
+  border-width: 0.1em;
+  border-color: #16B507;
+  border-radius: 10px;
+  background-color: #1c1c1c;
+}
