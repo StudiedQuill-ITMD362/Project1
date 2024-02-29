@@ -177,3 +177,24 @@ p{
 	font-size: 1.5em;
 	left: 40%;
   }
+}
+@media screen and (min-width: 1440px){
+  form{
+    width: 71em;
+  }
+  h2{
+    font-size: 3em;
+  }
+  p{
+    font-size: 2.5em;
+  }
+  #first_name, #last_name, #email_address, #pass_word{
+    font-size: 2.5em;
+    position: relative;
+	left: 2.5%;
+  }
+  #signUp{
+    padding: 0.25em;
+	font-size: 2em;
+	left: 44%;
+  }  
