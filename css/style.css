@@ -17,8 +17,8 @@ body{
 h1{
   padding: 0.25em;
   color: #95003C;
-  font-weight: 700;
-  font-size: 1.3em;
+  font-weight: 675;
+  font-size: 1.4em;
   padding-bottom: 0.5em;
   text-decoration: underline;
   text-decoration-color: #16B507;
@@ -38,4 +38,13 @@ form{
   border-color: #16B507;
   border-radius: 10px;
   background-color: #1c1c1c;
+}
+h2{
+  font-size: 1.25em;
+  text-align: center;
+  color: #95003C;
+}
+.bolded{
+  font-weight: 600;
+  font-size: 1.35em
 }
