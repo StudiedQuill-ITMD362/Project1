@@ -4,7 +4,6 @@
 .kode-mono-<Kode> {
   font-family: "Kode Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 body, #firstName, #lastName, #eMail, #signUp, #passWord{
