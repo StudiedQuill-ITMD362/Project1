@@ -133,16 +133,23 @@ p{
     font-size: 1.5em;
   }
   #firstName{
-    width: 15.95em;
+    width: 13.9em;
+	position: relative;
+	left: 8%;
   }
   #lastName{
-    width: 16.5em;
+    width: 14em;
+	position: relative;
+	left: 10%;
+	
   }
   #eMail{
     width: 14em;
   }
   #passWord{
-    width: 17em;
+    width: 14.13em;
+	position: relative;
+	left: 12%;
   }
   #signUp{
     padding: 0.5em;
