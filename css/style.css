@@ -133,23 +133,22 @@ p{
     font-size: 1.5em;
   }
   #firstName{
-    width: 13.9em;
-	position: relative;
-	left: 8%;
+    width: 14em;
+    position: relative;
+    left: 7.5%;
   }
   #lastName{
     width: 14em;
-	position: relative;
-	left: 10%;
-	
+    position: relative;
+    left: 10%;
   }
   #eMail{
     width: 14em;
   }
   #passWord{
-    width: 14.13em;
-	position: relative;
-	left: 12%;
+    width: 14em;
+    position: relative;
+    left: 12.45%;
   }
   #signUp{
     padding: 0.5em;
@@ -169,6 +168,15 @@ p{
   }
   #first_name, #last_name, #email_address, #pass_word{
     font-size: 2em;
+  }
+  #firstName{
+    left: 7.45%;
+  }
+  #lastName{
+    left: 9.8%;
+  }
+  #passWord{
+    left:12.2%;
   }
   #signUp{
     padding: 0.35em;
@@ -191,7 +199,16 @@ p{
     position: relative;
     left: 2.5%;
   }
-  #signUp{
+  #firstName{
+    left: 6.5%;
+  }
+  #lastName{
+    left: 8.5%;
+  }
+  #passWord{
+    left: 10.5%;
+  }
+  p{
     padding: 0.25em;
     font-size: 2em;
     left: 44%;
